@@ -1,2 +1,9 @@
 date,scope,country,event_name,description,xshift,yshift,ax,ay
-1990-01-15,country,Argentina,Hiperinflación,,0,10,0,-30
+1990-01-15,country,Argentina,Hiperinflación,,0,10,0,-25
+1991-03-27,country,Argentina,Convertibilidad,,0,8,15,-20
+1995-01-15,region,Argentina,Efecto Tequila,,-10,0,-60,30
+2001-01-15,country,Argentina,Megacanje,https://es.wikipedia.org/wiki/Megacanje,0,10,20,-30
+2001-12-03,country,Argentina,Corralito,,0,10,20,-30
+2006-01-03,country,Argentina,Salda deuda FMI,https://elpais.com/economia/2006/01/03/actualidad/1136277177_850215.html,0,-10,-30,30
+2008-01-15,global,World,Gran Recesión,https://es.wikipedia.org/wiki/Gran_Recesi%C3%B3n,20,0,50,20
+2018-06-07,country,Argentina,Vuelve el FMI,https://www.bbc.com/mundo/noticias-america-latina-44408231,0,10,-15,-22
