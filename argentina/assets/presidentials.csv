@@ -1,12 +1,12 @@
 country,president,from,to,annotation_x,annotation_y,note
 Argentina,Alfonsín,1986-01-01,1989-07-08,12300,44.3,
-Argentina,Menem (1),1989-07-08,1995-07-08,13000,46.6,""
-Argentina,Menem (2),1995-07-08,1999-12-10,13500,48.2,""
-Argentina,De la Rúa,1999-12-10,2001-12-21,15900,51.3,""
-Argentina,5 Presidentes,2001-12-21,2002-01-02,12000,51.5,""
-Argentina,Duhalde,2002-01-02,2003-05-25,13100,50.2,""
-Argentina,Kirchner,2003-05-25,2007-12-10,16500,47.5,""
-Argentina,Fernández C. (1),2007-12-10,2011-12-10,18500,43.8,""
-Argentina,Fernández C. (2),2011-12-10,2015-12-10,19150,40.9,""
-Argentina,Macri,2015-12-10,2019-12-10,17800,41.7,""
-Argentina,Fernández A.,2019-12-10,"",16600,42.9,""
+Argentina,Menem (1),1989-07-08,1995-07-08,13000,46.6,
+Argentina,Menem (2),1995-07-08,1999-12-10,15900,51.3,
+Argentina,De la Rúa,1999-12-10,2001-12-21,13600,51.9,
+Argentina,5 Presidentes,2001-12-21,2002-01-02,12000,51.5,
+Argentina,Duhalde,2002-01-02,2003-05-25,13100,50.2,
+Argentina,Kirchner,2003-05-25,2007-12-10,16500,47.5,
+Argentina,Fernández C. (1),2007-12-10,2011-12-10,18500,43.8,
+Argentina,Fernández C. (2),2011-12-10,2015-12-10,19150,40.9,
+Argentina,Macri,2015-12-10,2019-12-10,17800,41.7,
+Argentina,Fernández A.,2019-12-10,,16600,42.9,
