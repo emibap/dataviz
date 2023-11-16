@@ -1,9 +1,12 @@
 date,scope,country,event_name,description,xshift,yshift,ax,ay
-1990-01-15,country,Argentina,Hiperinflación,,0,10,0,-25
-1991-03-27,country,Argentina,Convertibilidad,,0,8,15,-20
-1995-01-15,region,Argentina,Efecto Tequila,,-10,0,-60,30
-2001-01-15,country,Argentina,Megacanje,https://es.wikipedia.org/wiki/Megacanje,0,10,20,-30
-2001-12-03,country,Argentina,Corralito,,0,10,20,-30
+1987-01-15,country,Argentina,Plan Austral,,10,0,60,0
+1989-04-15,country,Argentina, ,,0,-10,-30,10
+1990-03-01,country,Argentina,Hiperinflación,,0,-10,0,40
+1991-03-27,country,Argentina,Convertibilidad,,0,15,-10,-20
+1994-12-10,region,Argentina,Efecto Tequila,,10,0,60,30
+2001-01-15,country,Argentina,Megacanje FMI,https://es.wikipedia.org/wiki/Megacanje,0,10,30,-30
+2001-12-03,country,Argentina,Corralito,,0,-10,-20,30
 2006-01-03,country,Argentina,Salda deuda FMI,https://elpais.com/economia/2006/01/03/actualidad/1136277177_850215.html,0,-10,-30,30
-2008-01-15,global,World,Gran Recesión,https://es.wikipedia.org/wiki/Gran_Recesi%C3%B3n,20,0,50,20
-2018-06-07,country,Argentina,Vuelve el FMI,https://www.bbc.com/mundo/noticias-america-latina-44408231,0,10,-15,-22
+2008-01-15,global,World,Recesión global,https://es.wikipedia.org/wiki/Gran_Recesi%C3%B3n,20,0,70,0
+2018-06-07,country,Argentina,Rescate FMI,https://www.bbc.com/mundo/noticias-america-latina-44408231,0,-10,-10,22
+2020-06-15,global,World,Cuarentena COVID,https://es.wikipedia.org/wiki/Pandemia_de_COVID-19,10,15,-50,-20

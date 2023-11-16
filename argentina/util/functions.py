@@ -17,6 +17,7 @@ def get_date_year_percentage(date_str, min_pcn = 0.12, max_pcn = 0.88):
     return min(max((days_passed / (date_year_plus - date_year).days), min_pcn), max_pcn)
 
 
+# Obtiene date_time_obj desde un string
 def get_year_from_datestr(date_str):
     date_time_obj = datetime.strptime(date_str, "%Y-%m-%d")
 
