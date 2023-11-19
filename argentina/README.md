@@ -2,6 +2,13 @@
 
 Este proyecto contiene un Jupyter Notebook que explora la evolución económica y la desigualdad en Argentina. Utiliza datos de fuentes confiables para visualizar tendencias importantes y proporciona insights sobre la correlación entre el PBI per cápita y el índice de Gini a lo largo de diferentes períodos presidenciales.
 
+Basado en el [excelente análisis](https://thevizcorner.wordpress.com/2015/11/16/desigualdad-y-crecimiento-economico-en-argentina/) de Fernando Cucchietti ([@thefercook](https://twitter.com/thefercook)).
+
+### Fuentes
+Banco Mundial, INDEC. Cada punto representa cualitativamente el 31 de Diciembre de cada año.
+El BM nota que el PBI de 2012 a 2015 usa un factor de cambio combinado oficial y paralelo. 
+El valor Gini de 1988, 1989, 1990 y 2015 fue interpolado entre sus valores más cercanos.
+
 ## Instalación
 
 Para ejecutar este cuaderno, necesitarás tener instalado Python y los siguientes paquetes:
@@ -41,6 +48,8 @@ Si todo sale bien, la ejecución de todas las celdas culminará con la generaci�
 
 ![Evolución Económica y Desigualdad en Argentina](images/lastrun.png)
 
+### Estructura de datos (Work in progress)
+Los datos están en varios archivos `CSV`. Algunas reglas de estilo están en el mismo código dentro del notebook. Lo iré aprolijando y aclarando con el tiempo.
 
 ## Contribuciones
 Las contribuciones a este proyecto son bienvenidas. Si tenés sugerencias o mejoras, por favor, abrí un issue o enviá un pull request.
